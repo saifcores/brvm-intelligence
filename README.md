@@ -694,10 +694,11 @@ Pour toute contribution :
 
 ## 📄 Licence
 
-La licence du projet reste **à définir**.
+Copyright (c) 2026 Saïfoulaye Diallo. Tous droits réservés.
 
-Tant qu'une licence n'est pas ajoutée au dépôt, ne pas supposer que le
-code peut être réutilisé, modifié ou redistribué librement.
+Le code et la documentation de ce dépôt ne peuvent pas être réutilisés,
+modifiés ou redistribués sans autorisation écrite préalable. Le texte
+complet figure dans [LICENSE.md](LICENSE.md).
 
 ------------------------------------------------------------------------
 
