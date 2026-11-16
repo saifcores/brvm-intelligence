@@ -6,10 +6,14 @@ BRVM Intelligence est une plateforme personnelle d'apprentissage et
 d'analyse dédiée à la **Bourse Régionale des Valeurs Mobilières
 (BRVM)**.
 
-Le projet poursuit deux objectifs : 1. **Apprendre à investir :**
+Le projet poursuit deux objectifs : 
+
+1. **Apprendre à investir :**
 comprendre le marché financier de l'UEMOA, découvrir les sociétés
 cotées, lire leurs informations financières et suivre un portefeuille
-virtuel. 2. **Construire un produit FinTech :** développer
+virtuel.
+
+2. **Construire un produit FinTech :** développer
 progressivement une application fiable, documentée et évolutive, qui
 pourra à terme être utile à d'autres investisseurs de l'UEMOA.
 
