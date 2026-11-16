@@ -670,25 +670,15 @@ compétentes.
 ## 🤝 Contribution
 
 Le projet commence comme un projet personnel. Les contributions externes
-pourront être ouvertes ultérieurement.
+sont examinées par le mainteneur.
 
-Pour toute contribution :
+-   [CONTRIBUTING.md](CONTRIBUTING.md) : proposer un correctif ou une
+    évolution.
+-   [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) : règles de la communauté.
+-   [SECURITY.md](SECURITY.md) : signaler une vulnérabilité en privé.
+-   [CHANGELOG.md](CHANGELOG.md) : journal des modifications.
 
-1.  Créer une issue décrivant le problème ou l'amélioration.
-2.  Décrire le comportement attendu.
-3.  Proposer une solution limitée et testable.
-4.  Ajouter ou mettre à jour les tests.
-5.  Mettre à jour la documentation si nécessaire.
-
-### Conventions recommandées
-
--   Utiliser des noms explicites pour les classes, méthodes et
-    variables.
--   Garder les règles financières dans des composants métier testables.
--   Éviter les dépendances circulaires entre modules.
--   Documenter les décisions d'architecture importantes.
--   Ne jamais ajouter de données personnelles ou de secrets dans les
-    fixtures ou les commits.
+Les modèles d'issue et de pull request sont dans `.github/`.
 
 ------------------------------------------------------------------------
 
